@@ -2,7 +2,7 @@
 
 ## 📌Project Overview: 
 
-The Data Jobs Dashboard is an interactive Power BI report designed to analyze global job market trends, compensation rates, hiring platforms, and role requirements for data professionals in 2024.   By aggregating data across 479K+ job postings worldwide, this project provides actionable insights into salary benchmarks, job volume trends, and specific role requirements (e.g., degree requirements, remote work flexibility, and insurance benefits). 
+The Data Jobs Dashboard is an interactive Power BI report designed to analyse global job market trends, compensation rates, hiring platforms, and role requirements for data professionals in 2024.   By aggregating data across 479K+ job postings worldwide, this project provides actionable insights into salary benchmarks, job volume trends, and specific role requirements (e.g., degree requirements, remote work flexibility, and insurance benefits). 
 
 ![alt text](image.png)
 
@@ -10,7 +10,7 @@ The Data Jobs Dashboard is an interactive Power BI report designed to analyze gl
 ##   🛠️ Key Features & Visual Highlights
 
 
-    1. Main Overview PageKey Metrics Summary: 479K total job postings analyzed.   $113K Median Yearly Salary across all roles.   $47.62 Median Hourly Salary. 
+1. Main Overview Page Key Metrics Summary: 479K total job postings analysed.   $113K Median Yearly Salary across all roles.   $47.62 Median Hourly Salary. 
 
  -  2024 Job Hiring Trend: Line chart showcasing monthly job posting volumes, highlighting seasonal demand spikes during summer and late Q3.
 
@@ -44,9 +44,9 @@ The Data Jobs Dashboard is an interactive Power BI report designed to analyze gl
    
 # 💻 Tech Stack & Tools Used - Business Intelligence Tool:
  
- - Power BI Desktop   Data Modeling: DAX (Data Analysis Expressions) measures for calculated KPIs (e.g., Median Salaries, Job Counts)
+ - Power BI Desktop   Data Modelling: DAX (Data Analysis Expressions) measures for calculated KPIs (e.g., Median Salaries, Job Counts)
 
- - Data Visualizations: Drill-through filters, Custom Tooltips, Gauge charts, Donut charts, Map Visuals 
+ - Data Visualisations: Drill-through filters, Custom Tooltips, Gauge charts, Doughnut charts, Map Visuals 
 
 
  ## Skills Showcased
@@ -57,10 +57,10 @@ Cleaned, shaped, and prepared the raw data for analysis by handling blanks, chan
 Formulated measures to derive key insights and KPIs like Median Yearly Salary and Job Count.
 
 **Core Charts:** 
-Utilized **Column, Bar, Line,** and **Area Charts** to compare job counts and track trends over time.
+Utilised **Column, Bar, Line,** and **Area Charts** to compare job counts and track trends over time.
 
 **Geospatial Analysis:** 
-Leveraged **Map Charts** to visualize the global distribution of jobs.
+Leveraged **Map Charts** to visualise the global distribution of jobs.
 
 **KPI Indicators & Tables:** 
 Used **Cards** to display key metrics and **Tables** to provide granular, sortable data.
