@@ -4,8 +4,7 @@
 
 The Data Jobs Dashboard is an interactive Power BI report designed to analyse global job market trends, compensation rates, hiring platforms, and role requirements for data professionals in 2024.   By aggregating data across 479K+ job postings worldwide, this project provides actionable insights into salary benchmarks, job volume trends, and specific role requirements (e.g., degree requirements, remote work flexibility, and insurance benefits). 
 
-![alt text](image.png)
-
+![alt text](Images/image.png)
 
 ##   🛠️ Key Features & Visual Highlights
 
@@ -31,7 +30,7 @@ The Data Jobs Dashboard is an interactive Power BI report designed to analyse gl
 
 - Global Job Distribution Map: Geographic representation of job postings worldwide.   
 
-![alt text](image-2.png)
+![alt text](Images/image-2.png)
 
 # 💡 Key Insights & TakeawaysTop Compensation: 
 
